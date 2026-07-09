@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,10,14,17,20&height=280&section=header&text=Mohd%20Hamza%20Siddiqui&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20%7C%20Full%20Stack%20%7C%20AI-Powered%20Product%20Engineering&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,10,14,17,20&height=280&section=header&text=Mohd%20Hamza&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20%7C%20Full%20Stack%20%7C%20AI-Powered%20Product%20Engineering&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Python+%2F+Django+Backend+Engineer;Full+Stack+Developer+(Django+%2B+React);Building+AI-Powered+Products+with+LLMs;Cloud+%7C+AWS+%7C+GCP+%7C+Azure;Founder+%40+EVRaja+%7C+BikeRaja+%7C+TyreRaja" alt="Typing SVG" />
